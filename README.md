@@ -7,3 +7,4 @@
 - [marmot8080](https://github.com/marmot8080)
 - [Taeho24](https://github.com/Taeho24)
 - [fleshycat](https://github.com/fleshycat)
+- [glory0815](https://github.com/glory0815)
